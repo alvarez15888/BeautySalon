@@ -1,0 +1,82 @@
+[
+    {
+        "name":"Lucas Almeida",
+		"age": 28,
+        "price":13.99,
+        "available":true,
+        "description":"Lucas is an expert in men’s and women’s haircuts, coloring, and hair treatments. He is particularly talented in modern styles and personalized cuts.",
+        "imgUrl":"/imgs/services/LucasAlmeida.jpg",
+        "category":"Hairdresser Specialist"
+    },
+    {
+        "name":"Sophia Martinez",
+		"age": 32,
+        "price": 15.99,
+        "available":true,
+        "description":"Sophia specializes in makeup for all occasions, from everyday looks to bridal makeup. She is also skilled in updos and intricate hairstyles, especially for special events.",
+        "imgUrl":"/imgs/services/SophiaMartinez.jpg",
+        "category":"Makeup Artist and Hairstylist"
+    },
+    {
+        "name":"Sophie",
+		"age":29,
+        "price":7.99,
+        "available":true,
+        "description":"Sophie is a creative artist who loves using fine brushes to create unique designs, such as flowers, cartoon characters, and geometric patterns.",
+        "imgUrl":"/imgs/services/Sophie.jpg",
+        "category":"Detailed and personalized nail art"
+    },
+    {
+        "name":"Emma",
+		"age": 28,
+        "price":7.99,
+        "available":true,
+        "description":"Emma is known for her precision and perfectionism, creating fine, symmetrical lines for the classic French manicure or more modern, colorful versions.",
+        "imgUrl":"/imgs/services/Emma.jpg",
+        "category":"Classic and modern French manicure."
+    },
+    {
+        "name":"Olivia",
+		"age":33,
+        "price":7.99,
+        "available":true,
+        "description":"Olivia is a meticulous technician who loves creating long-lasting and durable nails with a glossy finish.",
+        "imgUrl":"/imgs/services/Olivia.jpg",
+        "category":"Gel and acrylic nails."
+    },
+    {
+        "name":"Ava",
+		"age":34,
+        "price":7.99,
+        "available":true,
+        "description":"Ava uses eco-friendly and natural products, caring for both the health of the nails and the environment.",
+        "imgUrl":"/imgs/services/Ava.jpg",
+        "category":"Organic and vegan manicure."
+    },
+    {
+        "name":"Isabella",
+		"age":34,
+        "price":7.99,
+        "available":true,
+        "description":"Isabella loves creating glamorous and festive looks, such as nails adorned with rhinestones, glitter, and other eye-catching accessories.",
+        "imgUrl":"/imgs/services/Isabella.jpg",
+		"category":"Event-ready decorative nails."
+    },
+    {
+        "name":"Mia",
+		"age":24,
+        "price":8.99,
+        "available":true,
+        "description":"Mia is efficient and focuses on clients who need a quick service without compromising on quality.",
+        "imgUrl":"/imgs/services/Mia.jpg",
+		"category":"Quick and practical manicure."
+    },
+    {
+        "name":"Charlotte",
+        "price":8.99,
+        "available":true,
+        "description":"Charlotte combines relaxing treatments with manicures, like exfoliation, hydration, and massage.",
+        "imgUrl":"/imgs/services/Charlotte.jpg",
+        "category":"Spa treatments for hands and feet."
+    }
+]
